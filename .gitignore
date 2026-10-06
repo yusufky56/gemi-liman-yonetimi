@@ -1,0 +1,12 @@
+# Uygulamanın oluşturduğu veritabanı
+*.db
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Editör
+.idea/
+.vscode/

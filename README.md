@@ -35,3 +35,7 @@ Uygulama ilk çalıştığında `Odev2.db` dosyasını ve tabloları kendisi olu
 - Muhammed Yusuf Kaya
 
 Proje raporu: [`docs/proje-raporu.pdf`](docs/proje-raporu.pdf)
+
+## License
+
+[MIT](LICENSE)
